@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use BEAT in academic work, analysis, or derivative projects, please cite it as follows."
+title: "BEAT: Behavioral–External Alignment Theory"
+abstract: >
+  BEAT (Behavioral–External Alignment Theory) is a phase-based framework for
+  diagnosing state stability across history. It models how internal strain and
+  external capacity diverge and converge over time, classifying states into
+  stability phases rather than producing single risk scores or point predictions.
+type: software
+version: "1.0.0"
+date-released: 2025-01-01
+authors:
+  - name: "Your Name"
+    affiliation: "Independent Researcher"
+repository-code: "https://github.com/YOUR_USERNAME/beat-framework"
+license: MIT
+keywords:
+  - state stability
+  - political instability
+  - comparative politics
+  - historical analysis
+  - phase models
+  - diagnostics
